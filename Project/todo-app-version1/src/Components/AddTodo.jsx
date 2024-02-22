@@ -8,7 +8,7 @@ return <div class="container text-center">
     <input type="Date" />
   </div>
   <div class="col">
-  <button type="button" class="btn btn-success">Add</button>
+  <button type="button" class="btn btn-success button">Add</button>
   </div>
 </div>
 </div>

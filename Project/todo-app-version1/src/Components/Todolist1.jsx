@@ -11,7 +11,7 @@ return <div class="container text-center">
     {date}
   </div>
   <div class="col">
-  <button type="button" class="btn btn-danger">Danger</button>
+  <button type="button" class="btn btn-danger button">Danger</button>
   </div>
 </div>
 </div>
